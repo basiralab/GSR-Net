@@ -20,7 +20,7 @@ This work has been accepted to “Machine Learning in Medical Imaging” (MLMI) 
 http://fcon_1000.projects.nitrc.org/indi/retro/southwestuni_qiu_index.html.
 In this repository, we release the code for training and testing GSR-Net on the SLIM dataset.
 
-![GSR-Net pipeline](/images/finalfig.PNG)
+![GSR-Net pipeline](/images/finalfig.png)
 
 # Dependencies
 
