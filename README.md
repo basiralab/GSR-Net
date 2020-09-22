@@ -95,17 +95,14 @@ Graph U-Nets: Gao, H., Ji, S.: Graph u-nets. In Chaudhuri, K., Salakhutdinov, R.
 SLIM Dataset: Liu, W., Wei, D., Chen, Q., Yang, W., Meng, J., Wu, G., Bi, T., Zhang, Q., Zuo, X.N., Qiu,
 J.: Longitudinal test-retest neuroimaging data from healthy young adults in southwest china. Scientific Data 4 (2017) [https://www.nature.com/articles/sdata201717]
 
-# Please cite the following paper when using NAG-FS:
+# Please cite the following paper when using GSR-Net:
 
-@article{mhiri2019joint,
-title={Joint Functional Brain Network Atlas Estimation and Feature Selection for Neurological Disorder Diagnosis With Application to Autism},<br/>
-author={Mhiri, Islem and Rekik, Islem},<br/>
-journal={Medical Image Analysis},<br/>
-volume={60},<br/>
-pages={101596},<br/>
-year={2020},<br/>
-publisher={Elsevier}<br/>
-}<br/>
-
-Paper link on ResearchGate:
-https://www.researchgate.net/publication/337092350_Joint_Functional_Brain_Network_Atlas_Estimation_and_Feature_Selection_for_Neurological_Disorder_Diagnosis_With_Application_to_Autism
+```latex
+@inproceedings{Ilassari2020,
+title={Graph Super-Resolution Network for predicting high-resolution connectomes from low-resolution connectomes},
+author={Isallari, Megi and Rekik, Islem},
+booktitle={International Workshop on PRedictive Intelligence In MEdicine},
+year={2020},
+organization={Springer}
+}
+```
