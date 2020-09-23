@@ -87,6 +87,15 @@ you will get the following outputs:
 
 ![GSR-Net pipeline](/images/example.png)
 
+
+# YouTube videos to install and run the code and understand how GSR-Net works
+
+To install and run GSR-Net, check the following YouTube video:
+https://youtu.be/xwHKRxgMaEM
+
+To learn about how GSR-Net works, check the following YouTube video:
+https://youtu.be/GahVu9NeOIg
+
 # Related references
 
 Graph U-Nets: Gao, H., Ji, S.: Graph u-nets. In Chaudhuri, K., Salakhutdinov, R., eds.: Proceedings of the
