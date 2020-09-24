@@ -107,7 +107,7 @@ J.: Longitudinal test-retest neuroimaging data from healthy young adults in sout
 # Please cite the following paper when using GSR-Net:
 
 ```latex
-@inproceedings{Ilassari2020,
+@inproceedings{Isallari2020,
 title={Graph Super-Resolution Network for predicting high-resolution connectomes from low-resolution connectomes},
 author={Isallari, Megi and Rekik, Islem},
 booktitle={International Workshop on PRedictive Intelligence In MEdicine},
