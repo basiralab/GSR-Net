@@ -66,6 +66,8 @@ $ python demo.py --help
 | hidden_dim | number of hidden GCN layer neurons             |
 | padding    | dimensions of padding                          |
 
+We also note that in our published paper, K was set to 2.
+
 **Data preparation**
 
 In our paper, we have used the SLIM dataset. In this repository, we simulated a n x l x l tensor X ( low-resolution connectomes for all subjects where l is the number of nodes of the LR connectome) and a n x h x h tensor Y (high-resolution connectomes for all subjects where h is the number of nodes of the HR connectome) It might yield in suboptimal results since data is randomly generated opposed to real brain graph data.
@@ -103,6 +105,11 @@ Graph U-Nets: Gao, H., Ji, S.: Graph u-nets. In Chaudhuri, K., Salakhutdinov, R.
 
 SLIM Dataset: Liu, W., Wei, D., Chen, Q., Yang, W., Meng, J., Wu, G., Bi, T., Zhang, Q., Zuo, X.N., Qiu,
 J.: Longitudinal test-retest neuroimaging data from healthy young adults in southwest china. Scientific Data 4 (2017) [https://www.nature.com/articles/sdata201717]
+
+# GSR-Net paper on arXiv:
+
+https://arxiv.org/abs/2009.11080
+
 
 # Please cite the following paper when using GSR-Net:
 
