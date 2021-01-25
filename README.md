@@ -93,10 +93,10 @@ you will get the following outputs:
 # YouTube videos to install and run the code and understand how GSR-Net works
 
 To install and run GSR-Net, check the following YouTube video:
-https://youtu.be/xwHKRxgMaEM
+https://youtu.be/GahVu9NeOIg
 
 To learn about how GSR-Net works, check the following YouTube video:
-https://youtu.be/GahVu9NeOIg
+https://youtu.be/xwHKRxgMaEM
 
 # Related references
 
